@@ -1,0 +1,11 @@
+#sideNav {
+    background-color: blueviolet !important;
+}
+
+a, p, h1, h2, h3 {
+    color: blueviolet;
+}
+
+.bg-primary {
+    background-color: blueviolet;
+}
