@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alkeet/static/css/main.5e79661d.chunk.css",
+    "main.js": "/alkeet/static/js/main.d98917f4.chunk.js",
+    "main.js.map": "/alkeet/static/js/main.d98917f4.chunk.js.map",
+    "runtime-main.js": "/alkeet/static/js/runtime-main.46de3334.js",
+    "runtime-main.js.map": "/alkeet/static/js/runtime-main.46de3334.js.map",
+    "static/js/2.74b1dee2.chunk.js": "/alkeet/static/js/2.74b1dee2.chunk.js",
+    "static/js/2.74b1dee2.chunk.js.map": "/alkeet/static/js/2.74b1dee2.chunk.js.map",
+    "index.html": "/alkeet/index.html",
+    "precache-manifest.af37d5a1bb1a77012b8add1a6a6adc76.js": "/alkeet/precache-manifest.af37d5a1bb1a77012b8add1a6a6adc76.js",
+    "service-worker.js": "/alkeet/service-worker.js",
+    "static/css/main.5e79661d.chunk.css.map": "/alkeet/static/css/main.5e79661d.chunk.css.map",
+    "static/js/2.74b1dee2.chunk.js.LICENSE.txt": "/alkeet/static/js/2.74b1dee2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46de3334.js",
+    "static/js/2.74b1dee2.chunk.js",
+    "static/css/main.5e79661d.chunk.css",
+    "static/js/main.d98917f4.chunk.js"
+  ]
+}
